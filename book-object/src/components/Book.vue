@@ -38,7 +38,7 @@ export default {
     };
   },
   methods:{
-    // 接受子组件穿过来的值
+    // 接受子组件穿过来的值  测试分支
     saveclass(data) {
       this.allclass=data
       // console.log(data)
