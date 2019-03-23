@@ -39,7 +39,7 @@ global.conn = mysql.createConnection({
     user:'root',
     password:'880508',
     port:3306,
-    database:'readbook'
+    database:'demo'
 });
 conn.connect();
 
